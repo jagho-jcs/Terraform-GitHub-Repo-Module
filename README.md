@@ -1,6 +1,6 @@
 # GitHub Repository
 
-Create a new repository.
+This module will create a new repository.
 
 ## Example Usage
 
