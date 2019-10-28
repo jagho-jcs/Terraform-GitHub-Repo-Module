@@ -83,7 +83,7 @@ variable "archived" {
 
 variable "topics" {
   type        = list(string)
-  default     = ["example", "terraform"]
+  default     = []
   description = "A list of topics to add to the repository."
 }
 
