@@ -1,7 +1,7 @@
 module "github_repository" {
   source = "../"
 
-  name = var.name
+  name = var.name_of_repository
 
   description = var.description
 
