@@ -1,3 +1,4 @@
-variable "topics" {}
-variable "name_of_repository" {}
+variable "organization" {}
+variable "name_of_repository"
 variable "description" {}
+variable "topics" {}
