@@ -12,5 +12,5 @@ module "github_repository" {
   # gitignore_template = "Node"
   license_template   = "mit"
 
-  # topics = ["example"]
+  topics = var.topics
 }
